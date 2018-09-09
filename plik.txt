@@ -1,2 +1,4 @@
 aab
 zmiana local
+i
+zmiana remote
